@@ -1,5 +1,5 @@
 {
-  "executionRoleArn": "arn:aws:iam::123456789:role/ecsTaskExecutionRole",
+  "executionRoleArn": "arn:aws:iam::395733741624:role/ecsTaskExecutionRole",
   "containerDefinitions": [{
     "name": "django_app",
     "image": "dkr.ecr.us-east-2.amazonaws.com/ci_cd",
